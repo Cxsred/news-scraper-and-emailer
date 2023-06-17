@@ -17,7 +17,7 @@
   <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your-username/news-scraper-emailer.git</code></pre>
+<pre><code>git clone https://github.com/Cxsred/news-scraper-and-emailer.git</code></pre>
 
 <ol start="2">
   <li>Change to the project directory:</li>
